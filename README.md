@@ -19,10 +19,7 @@
 The code is a reproduction of the paper results taken from the literature. The data being too large, the computation time is correspondingly high.
 We take sample of data from each cycle of the cell and try to model it in a mapper. Although the shape of the mapper is not perfectly similar with the literature, we can already notice the similar pattern taking form.
 
-<figure class="half" style="display:flex">
-    <img style="width:250px" src="./images/code.png">
-    <img style="width:250px" src="./images/papers.png">
-</figure>
+<img style="width:600px" src="./images/papers.jpg">
 
  <p><i>The first image is obtained in our code with limited sample data, the second image is taken from the <a href="https://arxiv.org/abs/1812.01360">Carriere-Rabadan paper: Topological Data Analysis of Single-cell Hi-C Contact Maps.</a>  Notice the formation of the circle pattern in both images.</i></p>
 </div>
